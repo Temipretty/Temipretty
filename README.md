@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Temidayo Omodara
+** 👋 Hi, I’m Temidayo Omodara**
 - 👀 I’m interested in acquiring more skills, participating in data science projects and building good portfolio
 - 🌱 I’m currently learning Machine Learning, Exploratory Data Analysis with Python, SQL, Deep Learning 
 - 💞️ I’m looking to collaborate on Data Analysis and Data Science Projects
